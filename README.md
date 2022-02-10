@@ -12,7 +12,7 @@ Now studying at e cole 42
 ## I’m currently learning
   - C
   - C++
-  - Golang
+  - NodeJs
 
 ## I’m interested
   - Genetic programming
