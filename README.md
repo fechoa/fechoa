@@ -12,6 +12,7 @@ Now studying at e cole 42
 ## I’m currently learning
   - C
   - C++
+  - Js
   - NodeJs
 
 ## I’m interested
