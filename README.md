@@ -1,22 +1,22 @@
-# 👀 My name's Vladislav Kubrak
+# 👨🏾‍💻 My name's Vladislav Kubrak
 
-I am a beginner developer with a huge and diverse background
-Now studying at e cole 42
+I am a front-end developer with a diverse and useful background
+Studying at : École 42 (French)
 
 ## My experience
-  - (Some) Team management up to 20
-  - (Some) Ui, Ux
-  - (Some) Front-End (Html, Css/Sass, some Js, Gulp)
-  - (Some) Unix, Make and C, C++
+  - Front-End (Html, Css/Sass, some Js, React, Styled-components, Router, Webpack, Gulp)
+  - Ui, Ux
+  - Unix, Make and C, C++
+  - Team management up to 20
 
 ## I’m currently learning
-  - C
-  - C++
   - Js
+  - React
   - NodeJs
+  - C++
 
 ## I’m interested
-  - Genetic programming
-  - Back-end
   - App Interfaces
   - AI
+  - Genetic programming
+  - Back-end
