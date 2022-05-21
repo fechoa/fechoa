@@ -1,6 +1,6 @@
 # 👨🏾‍💻 My name's Vladislav Kubrak
 
-I am a front-end developer with a diverse and useful background
+I am a front-end developer with a diverse and useful background<br/>
 Studying at : École 42 (French)
 
 ## My experience
