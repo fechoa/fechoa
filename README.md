@@ -5,7 +5,7 @@ Studying at : École 42 (French)
 
 ## My experience
   - Front-End (Html, Css/Sass, Js, React, Styled-components, Router, Webpack, Gulp)
-  - Ui/Ux
+  - UI/UX
   - Unix, Make, C, C++, Docker, Docker-compose
   - Team management up to 20
 
