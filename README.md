@@ -1,6 +1,6 @@
 # 👨🏾‍💻 My name's Vladislav Kubrak
 
-I am a front-end developer with a diverse and useful background<br/>
+I am a frontend developer with a diverse and useful background<br/>
 Studying at : École 42 (French)
 
 ## My experience
@@ -16,6 +16,7 @@ Studying at : École 42 (French)
   - C++
 
 ## I’m interested
+  - Web
   - App Interfaces
   - AI
   - Genetic programming
